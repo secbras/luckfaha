@@ -13,7 +13,7 @@ O LuckFaha Suite é especialmente projetado para identificar portas e serviços 
 <h2>Instalação:</h2>
 
 ```
-git clone https://github.com/wandrewtischlerx/luckfaha
+git clone https://github.com/secbras/luckfaha.git
 cd luckfaha
 pip install -r requirements.txt
 ```
@@ -21,7 +21,7 @@ pip install -r requirements.txt
 ## Uso:
 
 ```bash
-python luckfaha.py
+python luckfaha-suite.py
 ```
 
 <h2>Contribuições:</h2>
