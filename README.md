@@ -3,7 +3,7 @@
 <img src="https://github.com/wandrewtischlerx/luckfaha-suite/blob/main/luckfaha.png?raw=true" alt="LuckFaha-Suite">
 
 
-<h1>LuckFaha Suite v1.0</h1>
+<h1>LuckFaha Suite</h1>
 
 ---
 
