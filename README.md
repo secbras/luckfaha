@@ -18,6 +18,12 @@ cd Luckfaha
 pip install -r requirements.txt
 ```
 
+## Uso:
+
+```bash
+python yanshu-search.py
+```
+
 <h2>Contribuições:</h2>
 
 Contribuições são bem-vindas! Para sugerir melhorias ou reportar problemas, por favor abra uma issue ou envie um pull request.
