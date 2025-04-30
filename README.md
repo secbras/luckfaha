@@ -13,15 +13,15 @@ O LuckFaha Suite é especialmente projetado para identificar portas e serviços 
 <h2>Instalação:</h2>
 
 ```
-git clone https://github.com/wandrewtischlerx/Luckfaha
-cd Luckfaha
+git clone https://github.com/wandrewtischlerx/luckfaha
+cd luckfaha
 pip install -r requirements.txt
 ```
 
 ## Uso:
 
 ```bash
-python yanshu-search.py
+python luckfaha.py
 ```
 
 <h2>Contribuições:</h2>
