@@ -1,6 +1,6 @@
 
 
-<img src="https://github.com/wandrewtischlerx/luckfaha-suite/blob/main/luckfaha.png?raw=true" alt="LuckFaha-Suite">
+<img src="https://github.com/secbras/luckfaha/blob/main/imagens/luckfaha.png?raw=true" alt="LuckFaha-Suite">
 
 
 <h1>LuckFaha Suite</h1>
