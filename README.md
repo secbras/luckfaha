@@ -36,4 +36,4 @@ Este projeto está licenciado sob a MIT License (https://opensource.org/licenses
 
 Aproveite o LuckFaha Suite para detectar portas abertas e identificar serviços específicos com precisão. Otimize suas análises de rede e aumente a eficiência dos seus testes de segurança com esta ferramenta avançada!
 
-Desenvolvido pela SecBras Research
+**Desenvolvido pela SecBras Research**
